@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "926764907499",
+    "project_id": "first-firebase-df53f",
+    "storage_bucket": "first-firebase-df53f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926764907499:android:6960a4f0bb68c87e7df7ae",
+        "android_client_info": {
+          "package_name": "com.alqsa.firbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926764907499-vamrs438sdqqscqjv3fob8m7m2qiung3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiq4Z9UhRdSJSAIsjkbd5dALT1vb1MUZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926764907499-vamrs438sdqqscqjv3fob8m7m2qiung3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
